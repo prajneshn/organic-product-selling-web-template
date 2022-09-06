@@ -64,6 +64,7 @@ ul li a{
 .ffirst{
     display: inline-block;
     width: 300px;
+
     margin-left: 60px;
     background-color:#fcf9fbe8;
     border:1px solid #f50e7ee8;
@@ -75,18 +76,19 @@ ul li a{
     height: 200px;
 }
 .star{
-    width: 250px;
+
+    width: 100px;
     height: 50px;
 }
 .imagef{
     padding: 10px;
     display: inline-block;
-    width:40px;
+    width:35px;
 }
 .i-img{
     float: right;
     position: relative;
-    /* left: 500px; */
+   
     width: 250px;
     height: fit-content;
     margin-top: 75px;
